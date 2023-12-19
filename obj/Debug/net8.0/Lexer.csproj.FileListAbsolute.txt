@@ -1,0 +1,15 @@
+D:\Programming\csharp\Lexer\obj\Debug\net8.0\Lexer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\csharp\Lexer\obj\Debug\net8.0\Lexer.AssemblyInfoInputs.cache
+D:\Programming\csharp\Lexer\obj\Debug\net8.0\Lexer.AssemblyInfo.cs
+D:\Programming\csharp\Lexer\obj\Debug\net8.0\Lexer.csproj.CoreCompileInputs.cache
+D:\Programming\csharp\Lexer\obj\Debug\net8.0\Lexer.sourcelink.json
+D:\Programming\csharp\Lexer\bin\Debug\net8.0\Lexer.exe
+D:\Programming\csharp\Lexer\bin\Debug\net8.0\Lexer.deps.json
+D:\Programming\csharp\Lexer\bin\Debug\net8.0\Lexer.runtimeconfig.json
+D:\Programming\csharp\Lexer\bin\Debug\net8.0\Lexer.dll
+D:\Programming\csharp\Lexer\bin\Debug\net8.0\Lexer.pdb
+D:\Programming\csharp\Lexer\obj\Debug\net8.0\Lexer.dll
+D:\Programming\csharp\Lexer\obj\Debug\net8.0\refint\Lexer.dll
+D:\Programming\csharp\Lexer\obj\Debug\net8.0\Lexer.pdb
+D:\Programming\csharp\Lexer\obj\Debug\net8.0\Lexer.genruntimeconfig.cache
+D:\Programming\csharp\Lexer\obj\Debug\net8.0\ref\Lexer.dll
